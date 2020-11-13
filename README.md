@@ -18,7 +18,7 @@ flavors allow for much bigger projects with minimal added complexity.
 ## Overview
 - Project Overview  
 The multi-project build will look something like this. Proceed to the next slide for specific instructions.
-<img align="center" src="https://github.com/mcf1727/FinalProject/tree/master/photos">
+<img align="center" src="https://github.com/mcf1727/FinalProject/blob/master/photos/project_overview.png">
 
 - The App consists of four modules:  
 1.  A Java library that provides jokes
