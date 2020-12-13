@@ -1,5 +1,5 @@
 # About this project "FinalProject"
-An app telling a joke with multiple flavors that uses multiple libraries and Google Cloud Endpoints. The free procut flavor has ad inside the APP but the paid product flavor doesn't.
+An app telling a joke with multiple flavors that uses multiple libraries and Google Cloud Endpoints. The free product flavor has ad inside the APP but the paid product flavor doesn't.
 
 ## As a developer, what I used to build this project:
 -   Add free and paid flavors to an app, and set up the build to share code between them
